@@ -1,0 +1,34 @@
+<factura>
+<cliente>
+<nombre>carlos</nombre>
+<telefono>2222-2222</telefono>
+</cliente>
+<articulos>
+<articulo id="1">
+<descripcion>cable</descrpcion>
+<precio-unitario>1000</precio-unitario>
+<cantidad>2</cantidad>
+<precio-final>2000</precio-final>
+</articulo>
+<articulos>
+<articulo id="2">
+<descripcion>mouse</descripcion>
+<precio-unitario>2000</precio-unitario>
+<cantidad>1</cantidad>
+<precio-final>2000</precio-final>
+</articulo>
+<articulos>
+<articulo id="3">
+<descripcion>teclado</descripcion>
+<precio-unitario>1500</precio-unitario>
+<cantidad>2</cantidad>
+<precio-final>3000</precio-final>
+</articulo>
+</articulos>
+<precio-total>
+<precio-venta>7000</precio-venta>
+</precio-final>
+<facturas id="01">
+<fecha >01-12-21</fecha>
+</facturas
+</factura>
